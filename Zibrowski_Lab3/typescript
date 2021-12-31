@@ -1,0 +1,122 @@
+Script started on 2021-03-01 20:32:11-06:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+notReal.txt
+“Please enter a filename that exists and has data…”
+stillnotReal.txt
+Must enter a file name that exists and has data. Terminating...
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+notReal.txt
+“Please enter a filename that exists and has data…”
+toSort.txt
+MENU
+
+_____
+
+1) Shell sort
+
+2) Perl sort 
+
+3) Perl search 
+
+4) Exit
+
+Enter selection:
+1
+Enter ouput file name
+shellSort
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+toSort.txt
+MENU
+
+_____
+
+1) Shell sort
+
+2) Perl sort 
+
+3) Perl search 
+
+4) Exit
+
+Enter selection:
+2
+Enter ouput file name
+perlSort
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+toSort.txt
+MENU
+
+_____
+
+1) Shell sort
+
+2) Perl sort 
+
+3) Perl search 
+
+4) Exit
+
+Enter selection:
+3
+What word would you like to find?
+plot
+found plot at line 15
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+toSort.txt
+MENU
+
+_____
+
+1) Shell sort
+
+2) Perl sort 
+
+3) Perl search 
+
+4) Exit
+
+Enter selection:
+3
+What word would you like to find?
+glass
+glass not found in file
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+toSort.txt
+MENU
+
+_____
+
+1) Shell sort
+
+2) Perl sort 
+
+3) Perl search 
+
+4) Exit
+
+Enter selection:
+3
+What word would you like to find?
+speculate
+found speculate at line 9
+found speculate at line 51
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ ./lab3.sh
+toSort.txt
+MENU
+
+_____
+
+1) Shell sort
+
+2) Perl sort 
+
+3) Perl search 
+
+4) Exit
+
+Enter selection:
+4
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/Users/zibad/INET3101/Lab3[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/Users/zibad/INET3101/Lab3[00m$ exit
+exit
+
+Script done on 2021-03-01 20:35:00-06:00 [COMMAND_EXIT_CODE="1"]
